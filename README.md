@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 - 🔭 I’m currently working on PoultryPro Connects, a poultry farming community web app that anyone can find help from their fellow poultry farmers
-- 🌱 I’m currently learning Back-End Web Development concepts. 
+- 
+- 🌱 I’m currently learning Back-End Web Development concepts.
+- 
 - 👯 I’m looking to collaborate on OpenSource projects
-- - 📫 How to reach me: Email: mainaben23@gmail.com
+- 
+- 📫 How to reach me: Email: mainaben23@gmail.com
+- 

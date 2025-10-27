@@ -54,7 +54,7 @@ I build reliable, scalable, and secure backend systems. I’m passionate about t
 ## 🌐 Let’s Connect  
 
 📧 **Email:** mainaben23@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/benson-maina-66b19b224/)  
+💼 **LinkedIn:** [linkedin.com/in/benson-maina-66b19b224/] 
 <!--🌍 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  -->
 
 > 💡 **Looking for:** Opportunities to contribute to impactful projects as a backend developer or software engineer.  
